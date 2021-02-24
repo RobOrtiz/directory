@@ -1,9 +1,9 @@
 import React, { useContext } from "react";
 import "./Body.css"
-import DataAreaContext from "../../utils/DataAreaContext"
+import EmployeeDataContext from "../../utils/EmployeeDataContext"
 
 const Body = () => {
-    const context = useContext(DataAreaContext);
+    const context = useContext(EmployeeDataContext);
 
     function formatDate(date){
         const dateArray = date.split("-");
