@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from "react";
 import DataTable from "../DataTable";
 import Nav from "../Nav";
-import API from "../../utils/API";
+import API from "../../utils/Api";
 import "./EmployeeData.css";
 import EmployeeDataContext from "../../utils/EmployeeDataContext"
 
