@@ -1,6 +1,6 @@
 {
-  "homepage": "https://robortiz.github.io/directory/",
-  "name": "directoryapp",
+  "homepage": "http://RobOrtiz.github.io/directory",
+  "name": "directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
